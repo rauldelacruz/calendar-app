@@ -69,4 +69,4 @@ export const startLogout = () => {
   }
 }
 
-const logout = () => ({ type: types.authLogout }) 
+const logout = () => ({ type: types.authLogout })
